@@ -1,0 +1,221 @@
+===============================================================================
+                    END-USER LICENSE AGREEMENT (EULA)
+                        PROJECT ESTIMATION ML APP
+===============================================================================
+
+IMPORTANT - READ CAREFULLY: This End-User License Agreement ("EULA") is a 
+legal agreement between you (either an individual or a single entity) and 
+Mohamed Ashour ("Licensor") for the software product identified above, which 
+includes computer software and may include associated media, printed materials, 
+and "online" or electronic documentation ("Software").
+
+By installing, copying, or otherwise using the Software, you agree to be bound 
+by the terms of this EULA. If you do not agree to the terms of this EULA, do 
+not install or use the Software.
+
+===============================================================================
+1. SOFTWARE PRODUCT LICENSE
+===============================================================================
+
+The Software is protected by copyright laws and international copyright 
+treaties, as well as other intellectual property laws and treaties. The 
+Software is licensed, not sold.
+
+1.1 GRANT OF LICENSE
+Subject to the terms of this EULA, Licensor hereby grants you a limited, 
+non-exclusive, non-transferable license to use the Software in accordance 
+with the license type you have acquired:
+
+a) PERSONAL/EDUCATIONAL LICENSE: You may use the Software for personal, 
+   educational, or non-commercial research purposes only.
+
+b) EVALUATION LICENSE: You may use the Software for evaluation purposes 
+   for a period of thirty (30) days from first installation.
+
+c) COMMERCIAL LICENSE: Subject to payment of applicable license fees, you 
+   may use the Software for commercial purposes as specified in your 
+   commercial license agreement.
+
+1.2 DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+
+a) RESTRICTIONS ON USE: You may not:
+   - Use the Software for commercial purposes without a valid commercial license
+   - Distribute, rent, lease, or sublicense the Software
+   - Reverse engineer, decompile, or disassemble the Software
+   - Remove or alter any proprietary notices or labels on the Software
+   - Use the Software in any manner that violates applicable laws
+
+b) INSTALLATION AND USE: You may install and use the Software on multiple 
+   computers provided that the use complies with your license type.
+
+c) BACKUP COPY: You may make one copy of the Software for backup purposes 
+   only, provided the backup copy is not used for any other purpose.
+
+===============================================================================
+2. COPYRIGHT
+===============================================================================
+
+All title and copyrights in and to the Software (including but not limited 
+to any images, photographs, animations, video, audio, music, text, and 
+"applets" incorporated into the Software), the accompanying printed materials, 
+and any copies of the Software are owned by Mohamed Ashour. The Software is 
+protected by copyright laws and international treaty provisions.
+
+===============================================================================
+3. COMMERCIAL USE LICENSING
+===============================================================================
+
+3.1 COMMERCIAL USE DEFINITION
+Commercial use includes but is not limited to:
+- Using the Software in a business environment for profit
+- Incorporating the Software into commercial products or services
+- Using the Software to provide consulting or professional services
+- Using the Software results in decision-making that affects revenue
+
+3.2 COMMERCIAL LICENSE REQUIREMENTS
+To use the Software for commercial purposes, you must:
+- Obtain a valid commercial license from the Licensor
+- Pay applicable license fees
+- Comply with commercial license terms and conditions
+- Provide proper attribution as specified in your commercial license
+
+3.3 CONTACT FOR COMMERCIAL LICENSING
+For commercial licensing inquiries, contact:
+- Website: www.apcmasterypath.co.uk
+- LinkedIn: https://www.linkedin.com/in/mohamed-ashour-0727/
+- YouTube: https://www.youtube.com/@APCMasteryPath
+
+===============================================================================
+4. ACADEMIC AND RESEARCH USE
+===============================================================================
+
+4.1 PERMITTED ACADEMIC USE
+Academic institutions and researchers may use this Software for non-commercial 
+research and educational purposes subject to the following conditions:
+- Use must be for bona fide academic research or education
+- No commercial benefit may be derived from the use
+- Proper citation must be provided in any publications or presentations
+- The Software may not be redistributed to third parties
+
+4.2 CITATION REQUIREMENTS
+When using this Software in academic work, please cite:
+"Project Estimation ML App, developed by Mohamed Ashour, Construction Digital 
+Transformation Manager. Available at: www.apcmasterypath.co.uk"
+
+===============================================================================
+5. DISCLAIMER OF WARRANTIES
+===============================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR 
+DISCLAIMS ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, 
+AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET 
+YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED 
+OR ERROR-FREE.
+
+===============================================================================
+6. LIMITATION OF LIABILITY
+===============================================================================
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, 
+OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES 
+FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS 
+INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR 
+INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES.
+
+===============================================================================
+7. SUPPORT AND MAINTENANCE
+===============================================================================
+
+7.1 SUPPORT LEVELS
+- Personal/Educational License: Community support via documentation
+- Evaluation License: Limited support during evaluation period
+- Commercial License: Priority support as specified in commercial agreement
+
+7.2 UPDATES AND MODIFICATIONS
+Licensor may provide updates, enhancements, or modifications to the Software 
+at its sole discretion. Updates may require additional license fees for 
+commercial users.
+
+===============================================================================
+8. TERMINATION
+===============================================================================
+
+8.1 TERMINATION CONDITIONS
+This EULA is effective until terminated. Your rights under this EULA will 
+terminate automatically without notice if you fail to comply with any term(s) 
+of this EULA.
+
+8.2 EFFECT OF TERMINATION
+Upon termination, you must:
+- Cease all use of the Software
+- Destroy all copies of the Software in your possession
+- Remove the Software from all computers under your control
+
+===============================================================================
+9. DATA PRIVACY AND SECURITY
+===============================================================================
+
+9.1 DATA PROCESSING
+The Software processes data locally on your system. No data is transmitted 
+to external servers unless explicitly initiated by the user for legitimate 
+purposes (such as updates or support requests).
+
+9.2 USER RESPONSIBILITY
+You are responsible for:
+- Ensuring data security and backup
+- Compliance with applicable data protection laws
+- Appropriate use of the Software with sensitive data
+
+===============================================================================
+10. EXPORT RESTRICTIONS
+===============================================================================
+
+You acknowledge that the Software may be subject to export restrictions. 
+You agree to comply with all applicable export laws and regulations.
+
+===============================================================================
+11. GOVERNING LAW
+===============================================================================
+
+This EULA shall be governed by the laws of the United Kingdom. Any disputes 
+arising under this EULA shall be resolved in the courts of the United Kingdom.
+
+===============================================================================
+12. ENTIRE AGREEMENT
+===============================================================================
+
+This EULA constitutes the entire agreement between you and Licensor relating 
+to the Software and supersedes all prior or contemporaneous understandings 
+regarding such subject matter.
+
+===============================================================================
+13. AMENDMENTS
+===============================================================================
+
+Licensor reserves the right to modify this EULA at any time. Updated versions 
+will be made available through the official distribution channels. Continued 
+use of the Software constitutes acceptance of any modifications.
+
+===============================================================================
+14. CONTACT INFORMATION
+===============================================================================
+
+For questions regarding this EULA or the Software, contact:
+
+Mohamed Ashour
+Construction Digital Transformation Manager
+Website: www.apcmasterypath.co.uk
+LinkedIn: https://www.linkedin.com/in/mohamed-ashour-0727/
+YouTube Channel: APC Mastery Path (https://www.youtube.com/@APCMasteryPath)
+
+===============================================================================
+
+By using the Software, you acknowledge that you have read this EULA, 
+understand it, and agree to be bound by its terms and conditions.
+
+Copyright (c) 2025 Mohamed Ashour. All rights reserved.
+
+Project Estimation ML App v1.2.2
+Generated on: September 2025.

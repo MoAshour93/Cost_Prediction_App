@@ -1,0 +1,19 @@
+# Project Estimation ML App - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scikit-learn>=1.1.0
+xgboost>=1.6.0
+scipy>=1.8.0
+
+# Excel file support dependencies
+openpyxl>=3.0.0     # For .xlsx files
+pyxlsb>=1.0.0       # For .xlsb files  
+xlrd>=2.0.0         # For legacy .xls files
+
+# Optional for enhanced performance
+joblib>=1.1.0
