@@ -1,4 +1,4 @@
-# Project Estimation ML App
+# Project Cost Prediction ML App
 
 A comprehensive machine learning application for construction project cost estimation and predictive analytics. This application uses multiple ML algorithms to predict 'Estimate at Completion' (EAC) values based on various project parameters and historical data.
 
