@@ -419,7 +419,7 @@ This software is proprietary and developed by Mohamed Ashour. While the source c
 
 ### Usage Terms:
 - ✅ **Personal/Educational Use**: Free for learning and non-commercial research
-- ✅ **Evaluation**: Free 30-day trial for commercial evaluation
+- ✅ **Evaluation**: Free 14-day trial for commercial evaluation
 - ❌ **Commercial Use**: Requires paid license for business/commercial applications
 - ❌ **Redistribution**: Cannot redistribute or sell without permission
 
@@ -452,9 +452,12 @@ For technical issues:
 
 ## 🔄 Version History
 
-- **v1.3**: Enhanced batch processing and model evaluation
-- **v1.2.2**: Current version with improved GUI and validation
-- **v1.0**: Initial release with basic ML functionality
+- **v1.2.4**: Enhanced batch processing and model evaluation
+- **v1.2.3**: Current version with improved GUI and validation
+- **v1.2.2**: Added enhancements for the processing of data in addition to the graphs in the visualisations pane.
+- **v1.2.1**: Older release relying on a web-app structure making the best use of React JS.
+- **v1.1.0**: Enhanced Machine Learning Functionality & Outlier Detection
+- **v1.0.0**: Initial App with a minimalistic front-end and basic ML Functionality
 
 ---
 
