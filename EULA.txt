@@ -217,5 +217,5 @@ understand it, and agree to be bound by its terms and conditions.
 
 Copyright (c) 2025 Mohamed Ashour. All rights reserved.
 
-Project Estimation ML App v1.2.2
+Project Estimation ML App v1.2.4
 Generated on: September 2025.
