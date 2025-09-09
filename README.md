@@ -157,14 +157,8 @@ The application trains multiple algorithms simultaneously:
 **Step 5.1: Data Export Options**
 - CSV format for spreadsheet compatibility
 - Excel workbooks with multiple sheets
-- JSON format for API integration
 - Formatted reports with visualizations
 
-**Step 5.2: Model Persistence**
-- Save trained models for reuse
-- Version control for model updates
-- Performance tracking over time
-- Model lifecycle management
 
 ### Workflow Benefits for Construction Professionals
 
@@ -401,6 +395,12 @@ This project is designed for construction industry cost estimation and welcomes 
 - User interface enhancements
 - Documentation improvements
 - Bug fixes and testing
+- **Model Persistence**
+  - Save trained models for reuse
+  - Version control for model updates
+  - Performance tracking over time
+  - Model lifecycle management
+
 
 **How to contribute:**
 1. Fork the repository
