@@ -382,7 +382,6 @@ python install.py
 ### Log Files
 Check `logs/` directory for detailed error information:
 - `app_launch_*.log`: Application startup logs
-- `claude_code_*.log`: Development session logs
 
 ## 🤝 Contributing
 
